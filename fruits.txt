@@ -1,3 +1,7 @@
+strowberry
+cherry
+grapes
+
 pineapple
 watter melon
 apple
